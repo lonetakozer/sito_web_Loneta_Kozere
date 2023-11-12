@@ -1,0 +1,63 @@
+/* Stile generale */
+body {
+    font-family: Arial, sans-serif;
+    background-color: 326273;
+    margin: 0;
+    padding: 0;
+    font-size: #ae1045;
+}
+
+header {
+    background-color:#1bb46f;
+    color: #0b2f1f;
+    padding: 10px;
+}
+nav {
+    background-color:#1bb46f;
+    color: #03180f;
+    padding: 10px;
+}
+main {
+    background-color:#17975d;
+    color: #1d2104;
+    padding: 10px;
+}
+footer {
+    
+    background-color: 326273 ;
+    color: #ae1045;
+    padding: 10px;
+}
+
+
+/* Stile per il menu di navigazione */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #092216;
+}
+.salenopiazza{
+   
+    text-align: center;
+
+}
+
+/* Stile per i titoli */
+h1, h2 {
+    margin-top: 0;
+}
+
+/* Stile per il footer */
+footer {
+    text-align: center;
+
+}
